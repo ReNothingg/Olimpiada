@@ -1,0 +1,1 @@
+print("MarsCat 15 kg")
