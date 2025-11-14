@@ -1,3 +1,5 @@
+# Задача D. Максим и страх увольнения
+
 # 1. Читаем n, k и список a
 n, k = map(int, input().split())
 a = list(map(int, input().split()))
